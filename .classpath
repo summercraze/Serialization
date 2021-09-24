@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
