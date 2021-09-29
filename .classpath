@@ -23,5 +23,6 @@
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/org.apache.sling.javax.activation-0.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/rest-assured-4.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/testng-7.4.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
