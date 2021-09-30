@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Files"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/activation-1.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/commons-codec-1.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/commons-lang3-3.4.jar"/>
@@ -23,6 +24,8 @@
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/org.apache.sling.javax.activation-0.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/rest-assured-4.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/tagsoup-1.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jcommander-1.81.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jquery-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/testng-6.14.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
