@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-02T19:16:25Z" name="Default suite" finished-at="2021-10-02T19:16:30Z" duration-ms="5453">
+  <suite started-at="2021-10-03T00:06:11Z" name="Default suite" finished-at="2021-10-03T00:06:16Z" duration-ms="4664">
     <groups>
     </groups>
-    <test started-at="2021-10-02T19:16:25Z" name="Default test" finished-at="2021-10-02T19:16:30Z" duration-ms="5453">
+    <test started-at="2021-10-03T00:06:11Z" name="Default test" finished-at="2021-10-03T00:06:16Z" duration-ms="4664">
       <class name="DynamicJson">
-        <test-method signature="addBook()[pri:0, instance:DynamicJson@934b6cb]" started-at="2021-10-02T19:16:25Z" name="addBook" finished-at="2021-10-02T19:16:30Z" duration-ms="5363" status="PASS">
+        <test-method signature="addBook()[pri:0, instance:DynamicJson@563e4951]" started-at="2021-10-03T00:06:11Z" name="addBook" finished-at="2021-10-03T00:06:16Z" duration-ms="4581" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addBook -->
