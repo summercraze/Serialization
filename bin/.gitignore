@@ -4,3 +4,5 @@
 /UpdateComments.class
 /credentials.class
 /payload.class
+/GetIssue.class
+/ValidateComment.class
