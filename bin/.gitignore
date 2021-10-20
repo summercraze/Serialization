@@ -1,8 +1,5 @@
-/AddAttachment.class
 /Attachment
 /ReusableMethods.class
-/UpdateComments.class
 /credentials.class
+/getCourses.class
 /payload.class
-/GetIssue.class
-/ValidateComment.class

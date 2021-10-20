@@ -27,5 +27,65 @@
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jcommander-1.81.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jquery-3.5.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-java-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-chrome-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-transport-native-epoll-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-transport-native-kqueue-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-resolver-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-transport-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-codec-socks-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-common-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-handler-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-handler-proxy-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-buffer-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-codec-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-codec-http-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/byte-buddy-1.11.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/error_prone_annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/auto-common-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/auto-service-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/auto-service-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-sdk-metrics-1.6.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-sdk-trace-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-semconv-1.6.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-sdk-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-sdk-common-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-sdk-extension-autoconfigure-1.6.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-sdk-extension-autoconfigure-spi-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-api-metrics-1.6.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-context-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/opentelemetry-exporter-logging-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/netty-transport-native-unix-common-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-opera-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-remote-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-safari-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-firefox-xpi-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-http-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-ie-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-json-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-devtools-v93-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-devtools-v94-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-devtools-v95-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-edge-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-firefox-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-chromium-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-devtools-v85-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-support-4.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
