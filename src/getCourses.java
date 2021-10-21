@@ -53,6 +53,8 @@ public class getCourses
 		//Get the course by giving access token
 		String courseResponse = given().log().all().queryParam("access_token", ReusableMethods.getJsonKey(accessTokenResponse,"access_token"))//will get access token later
 		.when().log().all().get("https://rahulshettyacademy.com/getCourse.php").asString();
+		
+		System.out.println(courseResponse);
 	
 	}
 }

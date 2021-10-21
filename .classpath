@@ -87,5 +87,9 @@
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-devtools-v85-4.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-api-4.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/selenium-support-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/gson-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jackson-core-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jackson-annotations-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rong/Desktop/API Resource/BasicTestProject/BasicTestProject/libs/jackson-databind-2.13.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
