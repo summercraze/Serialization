@@ -3,39 +3,41 @@
  */
 package POJO;
 
+import java.util.List;
+
 public class childCourses 
 {
 	    // all the keys
-		private String webAutomation;
-		private String api;
-		private String mobile;
+		private List <courseWebAutomation> webAutomation; //will dynamic expland the lsit
+		private List <courseAPI>  api;
+		private courseMobile  mobile;
 		
 		//getter and setter for web automation
-		public String getWebAutomation() 
+		public List<courseWebAutomation> getWebAutomation() 
 		{
 			return webAutomation;
 		}
-		public void setWebAutomation(String webAutomation) 
+		public void setWebAutomation(List<courseWebAutomation> webAutomation) 
 		{
 			this.webAutomation = webAutomation;
 		}
 		
 		//getter and setter for api
-		public String getApi() 
+		public List<courseAPI> getApi() 
 		{
 			return api;
 		}
-		public void setApi(String api) 
+		public void setApi(List<courseAPI> api) 
 		{
 			this.api = api;
 		}
 		
 		//getter and setter for mobile
-		public String getMobile() 
+		public courseMobile getMobile() 
 		{
 			return mobile;
 		}
-		public void setMobile(String mobile) 
+		public void setMobile(courseMobile mobile) 
 		{
 			this.mobile = mobile;
 		}
