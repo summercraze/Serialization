@@ -1,2 +1,2 @@
-# JIRAAPI
-This project use different methods to test auotmation in RestAPI in JIRA to make sure they are working
+# OAuth2.0
+This project uses both selenium and Rest API to automate end to end of OAuth 2.0
